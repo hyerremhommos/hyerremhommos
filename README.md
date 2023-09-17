@@ -3,7 +3,10 @@
 - 🔭 Hoje não trabalho com desenvolvimento, mas estou buscando migrar para a área
 - 🌱 Atualmente, estou estudando as linguagens de marcação HTML5 e CSS3
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+<div>
+  <a href="https://beacons.ai/hyerremhommos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyerremhommos&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
