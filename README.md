@@ -1,7 +1,7 @@
 ## Olá, eu sou o Hyérre Hommos, estudante de programação.
 
 - 🔭 Hoje não trabalho com desenvolvimento, mas estou buscando migrar para a área
-- 🌱 Atualmente, estou estudando as linguagens de marcação HTML5 e CSS3 e a linguagem de programação Javascript
+- 🌱 Atualmente, estou estudando as linguagens de marcação HTML5 e CSS3, juntamente com a linguagem de programação Javascript
 
 <div>
   <a href="https://beacons.ai/hyerremhommos">
