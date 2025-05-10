@@ -1,8 +1,8 @@
 ## Olá, eu sou o Hyérre Hommos!
 
-- 💻 Amante da programação sempre em busca de aprendizado! Compartilhando minha jornada desde os primeiros passos até desafios avançados.
-- 📚 Atualmente, estou estudando e explorando as linguagens e projetos utilizando as tecnologias HTML5, CSS3 e Javascript. 
-- 🚀 Pronto para aprender e evoluir, estou aberto a colaborações e ansioso para conectar com outros desenvolvedores.
+- 💻 Apaixonado por programação e sempre em busca de evolução constante. Aqui compartilho minha jornada, desde os primeiros passos até os desafios mais avançados.
+- 📚 Atualmente, estou focado em aprender e criar projetos com HTML5, CSS3, JavaScript e VueJS, explorando na prática os fundamentos do desenvolvimento web.
+- 🚀 Aberto a colaborações, trocas de conhecimento e conexões com outros desenvolvedores.
 
 <div>
   <a href="https://beacons.ai/hyerremhommos">
