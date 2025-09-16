@@ -1,8 +1,8 @@
 ## Olá, eu sou o Hyérre Hommos!
 
-- 💻 Apaixonado por programação e sempre em busca de evolução constante. Aqui compartilho minha jornada, desde os primeiros passos até os desafios mais avançados.
-- 📚 Atualmente, estou focado em aprender e criar projetos front-end com HTML5, CSS3, JavaScript e VueJS 2, explorando na prática os fundamentos do desenvolvimento web.
-- 🚀 Aberto a colaborações, trocas de conhecimento e conexões com outros desenvolvedores.
+- 💻 Explorando o mundo da programação e documentando meu aprendizado por aqui. No momento, focado em desenvolvimento front-end.
+- 📚 Atualmente, estou estudando e criando projetos com HTML5, CSS3, JavaScript e Vue.js 2, enquanto solidifico os fundamentos do desenvolvimento web.
+- 🚀 Aberto a conexões, colaborações e trocas de conhecimento. A ideia é evoluir para o back-end em breve, rumo à formação full stack.
 
 
 <div>
