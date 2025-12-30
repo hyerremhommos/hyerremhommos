@@ -5,12 +5,7 @@
 - 🚀 Aberto a conexões, colaborações e trocas de conhecimento. A ideia é evoluir para o back-end em breve, rumo à formação full stack.
 
 
-<div>
-  <a href="https://beacons.ai/hyerremhommos">
-    <img height="180em"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyerremhommos&layout=compact&langs_count=16&theme=dark"/>
-  </a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyerremhommos&layout=compact&langs_count=16&theme=dark)](https://beacons.ai/hyerremhommos)
 
 
 <div style="display: inline_block"><br>
