@@ -5,9 +5,6 @@
 - 🚀 Aberto a conexões, colaborações e trocas de conhecimento. A ideia é evoluir para o back-end em breve, rumo à formação full stack.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyerremhommos&layout=compact&langs_count=16&theme=dark)](https://beacons.ai/hyerremhommos)
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,7 +15,7 @@
 ##
 
 <div> 
-  <a href="www.linkedin.com/in/hyerre-hommos" target="_blank">
+  <a href="https://www.linkedin.com/in/hyerre-hommos" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
