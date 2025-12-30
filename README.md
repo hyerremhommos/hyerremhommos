@@ -20,7 +20,7 @@
 ##
 
 <div> 
-  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
+  <a href="www.linkedin.com/in/hyérre-hommos-ab1501372" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
