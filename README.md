@@ -1,6 +1,6 @@
 ## Olá, eu sou o Hyérre Hommos!
 
-- 💻 Desenvolvedor front-end em formação, focado em projetos práticos e aprendizado contínuo com Vue.js.
+- 💻 Desenvolvedor front-end em formação, com foco em projetos práticos e aprendizado contínuo com Vue.js.
 - 📚 Atualmente, estou estudando e criando projetos com HTML5, CSS3, JavaScript e Vue.js 2 e 3, enquanto solidifico os fundamentos do desenvolvimento web.
 - 🚀 Aberto a conexões, colaborações e trocas de conhecimento. A ideia é evoluir para o back-end em breve, rumo à formação full stack.
 
