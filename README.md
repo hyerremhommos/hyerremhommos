@@ -1,6 +1,7 @@
 ## Olá, eu sou o Hyérre Hommos!
 
 💻 Desenvolvedor em formação, evoluindo de front-end para full stack — Vue.js, Node.js, TypeScript e SQLite.
+
 🚀 Aberto a conexões, colaborações e trocas de conhecimento.
 
 <div style="display: inline_block"><br>
