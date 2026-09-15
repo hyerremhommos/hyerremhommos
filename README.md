@@ -1,9 +1,7 @@
 ## Olá, eu sou o Hyérre Hommos!
 
-- 💻 Desenvolvedor front-end em formação, com foco em projetos práticos e aprendizado contínuo com Vue.js.
-- 📚 Atualmente, estou estudando e criando projetos com HTML5, CSS3, JavaScript e Vue.js 2 e 3, enquanto solidifico os fundamentos do desenvolvimento web.
-- 🚀 Aberto a conexões, colaborações e trocas de conhecimento. A ideia é evoluir para o back-end em breve, rumo à formação full stack.
-
+💻 Desenvolvedor em formação, evoluindo de front-end para full stack — Vue.js, Node.js, TypeScript e SQLite.
+🚀 Aberto a conexões, colaborações e trocas de conhecimento.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,4 +17,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
